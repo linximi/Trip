@@ -1,24 +1,29 @@
-body{
-  margin: 40px;
+body {
+  margin: auto;
 }
-div {
+div.daily {
+  width: 1000px;
   font-size: 16px;
-  background-color: pink;
-  padding: 20px;
+  background-color: #ffeed5;
+  margin-left: 136px;
+}
+div.img{
+  margin-left: 14%;
 }
 h1 {
   font-size: 28px;
+  margin-left: 400px;
 }
 span.gray {
   color: gray;
-  text-align: center;
-  text-indent: 8em;
+  margin-left: 14%;
 }
 span.small {
   font-size: 14px;
 }
-
-
+span.tieshi {
+  color: orange;
+}
 p {
   text-indent: 20px;
 }
